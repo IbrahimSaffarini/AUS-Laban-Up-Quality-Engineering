@@ -21,7 +21,7 @@ This immersive Virtual Reality (VR) experience is specifically tailored for indu
 
 ## Technologies
 
-### 1- Unity 3D::
+### 1- Unity 3D:
 
    - The core platform for developing the VR environment and interactions.
 
